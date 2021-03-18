@@ -1,0 +1,19 @@
+{
+  "name": "24-hour-video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ws"
+  },
+  "local-web-server":{
+    "port":8100,
+    "forbid":"*.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "local-web-server": "^4.2.1"
+  }
+}
